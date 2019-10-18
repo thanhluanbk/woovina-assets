@@ -10,7 +10,7 @@
 	'home_title'  		=> 'Home',
 	'blog_title'  		=> 'Blog',
 	'posts_to_show'  	=> '15',
-	'elementor_width'  	=> '1680',
+	'elementor_width'  	=> '1710',
 	'css_file'		=> 'demo-20.css',
 	'woo_image_size'	=> '600',
 	'woo_thumb_size'	=> '270',
